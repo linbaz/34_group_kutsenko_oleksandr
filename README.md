@@ -1,1 +1,1 @@
-# 34_group_kutsenko_oleksandr
+# 34group_kutsenko_oleksandr
