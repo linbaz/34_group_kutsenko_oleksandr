@@ -13,11 +13,11 @@
 
 ***Результат програми:***
 
-
+https://github.com/linbaz/34_group_kutsenko_oleksandr/blob/main/task02-06/ex01/image/img1/image.png
 
 ***Тестування:***
 
-
+https://github.com/linbaz/34_group_kutsenko_oleksandr/blob/main/task02-06/ex01/image/img2/image.png
 
 ## Завдання03:
 
