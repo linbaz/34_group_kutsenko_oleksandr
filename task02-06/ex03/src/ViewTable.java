@@ -14,7 +14,7 @@ import java.util.Formatter;
  */
 public class ViewTable extends ViewResult {
     /** Определяет ширину таблицы по умолчанию */
-    private static final int DEFAULT_WIDTH = 35;
+    private static final int DEFAULT_WIDTH = 20;
     /** Текущая ширина таблицы */
     private int width;
     /** Устанавливает {@linkplain ViewTable#width width}
