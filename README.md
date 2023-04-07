@@ -31,3 +31,16 @@
 
 ![](https://github.com/linbaz/34_group_kutsenko_oleksandr/blob/main/task02-06/ex02/image/image2.png)
 
+## Завдання04:
+
+Як основа використовувати вихідний текст проекту попередньої роботи. Використовуючи шаблон проектування Factory Method (Virtual Constructor), розширити ієрархію похідними класами, які реалізують методи представлення результатів як текстової таблиці. Параметри відображення таблиці повинні визначатися користувачем. Продемонструвати заміщення (перевизначення, overriding), поєднання (перевантаження, overloading), динамічне призначення методів (пізнє зв'язування, поліморфізм, dynamic method dispatch). Забезпечити діалоговий інтерфейс із користувачем. Розробити клас для тестування основної функціональності.
+
+#### Результат програми:
+
+![](https://github.com/linbaz/34_group_kutsenko_oleksandr/blob/main/task02-06/ex03/image/image1.png)
+
+#### Тестування:
+
+![](https://github.com/linbaz/34_group_kutsenko_oleksandr/blob/main/task02-06/ex03/image/image2.png)
+
+
