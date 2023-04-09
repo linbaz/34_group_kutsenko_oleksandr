@@ -56,4 +56,16 @@
 
 ![](https://github.com/linbaz/34_group_kutsenko_oleksandr/blob/main/task02-06/ex04/image/image2.png)
 
+## Завдання06 :
+
+Продемонструвати можливість паралельної обробки елементів колекції (пошук мінімуму, максимуму, обчислення середнього значення, відбір за критерієм, статистична обробка тощо). Управління чергою завдань (команд) реалізувати за допомогою шаблону Worker Thread. Забезпечити діалоговий інтерфейс з користувачем. Розробити клас для тестування функціональності програми.
+
+#### Результат програми:
+
+![](https://github.com/linbaz/34_group_kutsenko_oleksandr/blob/main/task02-06/ex05/image/image1.png)
+
+#### Тестування:
+
+![](https://github.com/linbaz/34_group_kutsenko_oleksandr/blob/main/task02-06/ex05/image/image2.png)
+
 
