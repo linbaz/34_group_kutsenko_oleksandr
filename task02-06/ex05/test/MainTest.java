@@ -3,7 +3,7 @@ package ex05;
 import static org.junit.Assert.*;
 import org.junit.Test;
 import ex02.ViewResult;
-import ex02.Item2d;
+import ex02.Visual;
 
 import java.io.IOException;
 
@@ -16,9 +16,9 @@ public class MainTest {
 
             }
         };
-        Item2d firstItem = new Item2d(2, 2);
-        Item2d secondItem = new Item2d(4, 4);
-        Item2d thirdItem = new Item2d(6, 6);
+        Visual firstItem = new Visual(2, 2);
+        Visual secondItem = new Visual(4, 4);
+        Visual thirdItem = new Visual(6, 6);
         viewResult.getItems().add(firstItem);
         viewResult.getItems().add(secondItem);
         viewResult.getItems().add(thirdItem);
@@ -38,9 +38,9 @@ public class MainTest {
 
             }
         };
-        Item2d firstItem = new Item2d(2, 2);
-        Item2d secondItem = new Item2d(4, 4);
-        Item2d thirdItem = new Item2d(6, 6);
+        Visual firstItem = new Visual(2, 2);
+        Visual secondItem = new Visual(4, 4);
+        Visual thirdItem = new Visual(6, 6);
         viewResult.getItems().add(firstItem);
         viewResult.getItems().add(secondItem);
         viewResult.getItems().add(thirdItem);
@@ -59,11 +59,11 @@ public class MainTest {
 
             }
         };
-        Item2d firstItem = new Item2d(2, 2);
-        Item2d secondItem = new Item2d(4, 4);
-        Item2d thirdItem = new Item2d(-6, 6);
-        Item2d fourthItem = new Item2d(-8, 8);
-        Item2d fifthItem = new Item2d(-10, 10);
+        Visual firstItem = new Visual(2, 2);
+        Visual secondItem = new Visual(4, 4);
+        Visual thirdItem = new Visual(-6, 6);
+        Visual fourthItem = new Visual(-8, 8);
+        Visual fifthItem = new Visual(-10, 10);
         viewResult.getItems().add(firstItem);
         viewResult.getItems().add(secondItem);
         viewResult.getItems().add(thirdItem);
